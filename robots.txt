@@ -1,0 +1,5 @@
+User-agent: *
+
+Allow: /
+
+Host: panibus.com.ua
